@@ -196,5 +196,5 @@
 </p?
  
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/prafulk9155/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
+    <img src="https://github.com/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
 </p>
