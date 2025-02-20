@@ -198,3 +198,5 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
 </p>
+
+<iframe src="https://codeium.com/profile/praful-kumar-90574></iframe>
