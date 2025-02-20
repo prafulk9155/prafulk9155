@@ -199,4 +199,5 @@
     <img src="https://github.com/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
 </p>
 
-<iframe src="https://codeium.com/profile/praful-kumar-90574></iframe>
+## My Codeium Profile
+[![Codeium Profile](https://codeium.com/profile/praful-kumar-90574)
