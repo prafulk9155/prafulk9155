@@ -1,203 +1,191 @@
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
-</p>
-<h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Praful Kumar
-</h1>
+<div align="center">
+  
+# 👋 Hi there, I'm **Praful Kumar**
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
-</p>
-<h2></h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full-Stack+Developer+%7C+AI%2FML+Enthusiast;💡+Problem+Solver+%7C+Tech+Explorer;🌟+Building+the+Future+with+Code" alt="Typing Animation" />
 
-<h3 align="center">
-    I am a Full Stack developer with a strong passion for crafting efficient and scalable software solutions. With a solid foundation in Javascript programming and a keen eye for detail, I strive to create robust applications that meet the highest standards of quality.<br />
-    I like solving competitive coding problems, exploring new technologies and book reading.
-</h3>
-
-<br>
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
-</p>
-
-<h2></h2>
-<br>
-
-<div>
-<p align='left' style='font-size: 16px;'>
-    ⚡ <strong>Fun fact: </strong>It is never too late to learn something.
-</p>
-
-📫 _How to reach me_ **prafulk9155gmail.com**
-
-<p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/praful-kumar-38b96b1b0/"  target="_blank">LinkedIn</a></strong>
-</p>
-
-<p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="https://prafulstack.netlify.app"  target="_blank">Portfolio</a></strong>
-</p>
-<br>
-
-<p align="left" style='font-size: 16px;'> 
-  <img src="https://komarev.com/ghpvc/?username=prafulk9155&style=flat-square" />
-</p>
 </div>
 
-<br>
+---
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafulk9155&&theme=flat&column=5&margin-w=15&margin-h=15" alt="prafulk9155" /></a> </p>
+## 🎯 **About Me**
 
-<h2></h2>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-    Languages and Tools:
-</h3>
-<p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse-foundation" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="font-awesome" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="eclipse-foundation" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtual-box" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="axios" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-</p>
+🔥 **Passionate Full-Stack Developer** from India with a love for creating scalable, efficient solutions
 
-<br>
-<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'> <strong> Actively Learning: </strong></h3>
-<p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-</p>
-    
-<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
-    Stats:
-</h3>
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&langs_count=10&theme=dark" alt="prafulk9155" />
-</p>
+🧠 **AI/ML Enthusiast** diving deep into machine learning and artificial intelligence
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=dark" alt="prafulk9155" />
-</p>
+💻 **Problem Solver** who enjoys tackling competitive programming challenges
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=dark" alt="prafulk9155" />
-</p>
+📚 **Lifelong Learner** constantly exploring new technologies and methodologies
 
-<p align="center" >
-    <img style='width : 70%;' src="profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" alt="3D-profile-contrib">
-</p?
- 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake eating contribution graph" />
-</p>
+🎯 **Fun Fact:** *"It's never too late to learn something new!"*
 
-## My Codeium Profile
-[![Codeium Profile](https://codeium.com/profile/praful-kumar-90574)
+<br clear="right"/>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-kumar-38b96b1b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prafulstack.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafulk9155@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prafulk9155&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=prafulk9155&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/prafulk9155)
+
+</div>
+
+---
+
+## 💻 **Tech Stack**
+
+### **Frontend Development**
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+### **Backend Development**
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+### **Databases**
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### **Programming Languages**
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 **AI/ML & Currently Learning**
+
+<div align="center">
+
+### **🤖 AI/ML Technologies**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **🔄 Currently Exploring**
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&theme=radical&hide_border=true&langs_count=12" />
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prafulk9155&theme=radical&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  
+![Snake animation](https://github.com/prafulk9155/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💼 **Codeium Profile**
+
+<div align="center">
+
+[![Codeium](https://img.shields.io/badge/Codeium-Profile-blue?style=for-the-badge&logo=codeium)](https://codeium.com/profile/praful-kumar-90574)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
