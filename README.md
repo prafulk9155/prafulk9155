@@ -12,15 +12,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔥 **Passionate Full-Stack Developer** from India with a love for creating scalable, efficient solutions
-
-🧠 **AI/ML Enthusiast** diving deep into machine learning and artificial intelligence
-
-💻 **Problem Solver** who enjoys tackling competitive programming challenges
-
-📚 **Lifelong Learner** constantly exploring new technologies and methodologies
-
-🎯 **Fun Fact:** *"It's never too late to learn something new!"*
+🔥 **Full-Stack Developer** from India with a love for creating scalable, efficient solutions  
+🧠 **AI/ML Enthusiast** diving deep into artificial intelligence & machine learning  
+💻 **Problem Solver** passionate about coding challenges & real-world solutions  
+📚 **Lifelong Learner** exploring new technologies & methodologies  
+🎯 **Fun Fact:** *"It's never too late to learn something new!"*  
 
 <br clear="right"/>
 
@@ -44,7 +40,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=prafulk9155&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/prafulk9155)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prafulk9155&theme=radical&no-frame=true&margin-w=8&row=2&column=4)](https://github.com/prafulk9155)
 
 </div>
 
@@ -52,7 +48,7 @@
 
 ## 💻 **Tech Stack**
 
-### **Frontend Development**
+### 🔹 Frontend
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,7 +61,7 @@
 
 </div>
 
-### **Backend Development**
+### 🔹 Backend
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,7 +73,7 @@
 
 </div>
 
-### **Databases**
+### 🔹 Databases
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -86,7 +82,7 @@
 
 </div>
 
-### **Programming Languages**
+### 🔹 Programming Languages
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -97,7 +93,7 @@
 
 </div>
 
-### **Tools & Platforms**
+### 🔹 Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -111,18 +107,18 @@
 
 ---
 
-## 🧠 **AI/ML & Currently Learning**
+## 🧠 **AI/ML & Currently Exploring**
 
 <div align="center">
 
-### **🤖 AI/ML Technologies**
+### 🤖 AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **🔄 Currently Exploring**
+### 🔄 Currently Learning
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -136,7 +132,7 @@
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true" />
 </div>
 
@@ -160,7 +156,8 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/prafulk9155/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
@@ -178,9 +175,9 @@
 
 <div align="center">
 
-### 🌟 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+### 🌟 *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Thanks for visiting! Let's connect and build something amazing together 🚀**
 
 </div>
 
