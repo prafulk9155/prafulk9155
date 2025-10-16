@@ -132,13 +132,14 @@
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true&v=1" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&theme=radical&hide_border=true&langs_count=12" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulk9155&layout=compact&theme=radical&hide_border=true&langs_count=12&v=1" />
 </div>
+
 
 ---
 
