@@ -133,7 +133,12 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app?user=prafulk9155&theme=radical&hide_border=true&v=1" />
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    width="48%" 
+  />
 </div>
 
 <div align="center">
