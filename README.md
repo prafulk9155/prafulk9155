@@ -135,7 +135,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulk9155&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prafulk9155&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?username=prafulk9155&theme=radical&hide_border=true" 
     alt="GitHub Streak Stats" 
     width="48%" 
   />
@@ -163,8 +163,11 @@
 
 <div align="center">
   
-![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://github.com/prafulk9155/prafulk9155/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/prafulk9155/prafulk9155/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 </div>
 
